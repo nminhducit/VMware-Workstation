@@ -19,5 +19,5 @@
   - NG0RK-2DK9L-HJDF8-1LAXP-1ARQ0
   - 0U2J0-2E19P-HJEX1-132Q2-8AKK6	 
 
-  - [Download source VMware-workstation-full-17.5.1]([https://1drv.ms/u/s!AmvuvqBBIcK6iQVgjPUSlqUiIi-L?e=v5AV7L](https://drive.google.com/uc?export=download&id=1cXFDs39gjmeuFi-w8uOiOMdhnhPyERkS))
+  - [Download source VMware-workstation-full-17.5.1](https://drive.google.com/uc?export=download&id=1cXFDs39gjmeuFi-w8uOiOMdhnhPyERkS)
 
